@@ -1,0 +1,43 @@
+body{
+    background-image: url(images/muster.gif);
+}
+.ust,
+.alt{
+    width: 380px;
+    padding: 10px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.menu a{
+    display: block;
+    color: #000;
+    background-color: burlywood;
+    margin-bottom: 2px;
+    text-decoration: none;
+    padding: 3px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.menu a:hover{
+    background-color: #ffe4b5;
+}
+.icerik,
+.sertifika{
+    font-size: 14px;
+    padding: 10px;
+    text-align: justify;
+    line-height: 150%;
+}
+.tescil{
+    text-align: right;
+}
